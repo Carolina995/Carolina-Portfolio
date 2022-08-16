@@ -3030,7 +3030,7 @@ textarea.form-control-lg {
 
 .btn {
   display: inline-block;
-  font-weight: 400px;
+  font-weight: 400;
   line-height: 1.5;
   color: #0d0f10;
   text-align: center;
@@ -11636,7 +11636,7 @@ body {
   padding: 0.9rem 0;
 }
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(#fff, 80%);
+  color:#fff, 80%;
   outline: none;
   background-color: transparent;
 }
@@ -11699,7 +11699,7 @@ body {
 }
 
 .masthead {
-  position: center;
+  position: relative;
   width: 100%;
   height:auto;
   min-height: 20rem;
@@ -11894,7 +11894,7 @@ body {
   color: rgba(255, 255, 255, 0.3);
 } */
 .contact-section .social a:hover {
-rgba(255, 255, 255, 0.5);
+color: rgba(255, 255, 255, 0.5);
 }
 .contact-section .social a:active {
   color: #7318a7;
